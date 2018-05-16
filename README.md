@@ -1,2 +1,1 @@
 # Pandas
- Pandas ndarray basics 
